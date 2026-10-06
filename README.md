@@ -24,7 +24,7 @@ The terrain was created using elevation data for the Hampi region.
 - Exported the heightmap and used it as the basis for the Unity terrain.
 - Adjusted the terrain scale and elevation to fit the heritage environment.
 
-<img width="400" height="400" alt="Screenshot 2026-08-25 204930" src="https://github.com/user-attachments/assets/500ba877-4aec-421b-a611-2b61e39636da" />
+<img width="600" height="500" alt="Screenshot 2026-08-25 204930" src="https://github.com/user-attachments/assets/500ba877-4aec-421b-a611-2b61e39636da" />
 
 
 ### 2. Terrain Preparation
@@ -36,8 +36,8 @@ The heightmap-based terrain was prepared and adjusted before importing it into t
 - Prepared the surface for texturing and environment placement.
 
 
-<img width="400" height="400" alt="Screenshot 2026-08-26 174022" src="https://github.com/user-attachments/assets/9585fa5b-34c9-47a9-b834-92f0a90daa75" />
-<img width="400" height="400" alt="Screenshot 2026-08-26 143833" src="https://github.com/user-attachments/assets/40daa4ea-500b-46f7-9e25-48fa2051bfdf" />
+<img width="600" height="500" alt="Screenshot 2026-08-26 174022" src="https://github.com/user-attachments/assets/9585fa5b-34c9-47a9-b834-92f0a90daa75" />
+<img width="600" height="500" alt="Screenshot 2026-08-26 143833" src="https://github.com/user-attachments/assets/40daa4ea-500b-46f7-9e25-48fa2051bfdf" />
 
 
 ### 3. Terrain Texturing
@@ -61,8 +61,8 @@ The main heritage environment was assembled around the **Vittala Temple and Ston
 - Added a boundary around the main temple area.
   
 
-<img width="400" height="400" alt="Screenshot 2026-10-06 161450" src="https://github.com/user-attachments/assets/5172592f-0645-4d4d-a704-39217d233c49" />
-<img width="400" height="400" alt="Screenshot 2026-10-06 161554" src="https://github.com/user-attachments/assets/8df98835-db61-4140-82a2-ab5569cfc06d" />
+<img width="600" height="500" alt="Screenshot 2026-10-06 161450" src="https://github.com/user-attachments/assets/5172592f-0645-4d4d-a704-39217d233c49" />
+<img width="600" height="500" alt="Screenshot 2026-10-06 161554" src="https://github.com/user-attachments/assets/8df98835-db61-4140-82a2-ab5569cfc06d" />
 
 
 ### 5. Unity Scene Setup
@@ -81,7 +81,7 @@ Main scene components include:
 - Main entrance elements
 - Lighting and environment
 
-<img width="353" height="491" alt="Screenshot 2026-10-06 162155" src="https://github.com/user-attachments/assets/5b5cc8aa-0d43-43e3-8799-cdc127683c0a" />
+<img width="600" height="500" alt="Screenshot 2026-10-06 162155" src="https://github.com/user-attachments/assets/5b5cc8aa-0d43-43e3-8799-cdc127683c0a" />
 
 
 ### 6. Exploration Setup
